@@ -37,7 +37,7 @@ int main()
   string ans,psd,name,fname,bio,usern,pw,line,nusn;
   ofstream fileo;
   ifstream filei;
-  cout<<"----------------------------------------------Welcome to our system!------------------------------------------------------\n";
+  cout<<"----------------------------------------------Welcome to Aakash's system!------------------------------------------------------\n";
   while(exit==0)
   {
     cout<<"\nChoose one option:\n1. SignIn/LogIn(press 1 to select this)\n2. SignUp/Register(press 2 to select this)\n\npress any key and enter to exit\n";
