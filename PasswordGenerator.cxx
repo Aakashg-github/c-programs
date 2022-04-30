@@ -10,9 +10,9 @@ int main()
 	int n;
 	
 	data = "abcdefghijklmnopqrstuvwxyz"
-						  "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-						  "!@#$%^&*-:;,?()[]><_/=÷×+~`"
-						  "1234567890";
+		"ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+		"!@#$%^&*-:;,?()[]><_/=÷×+~`"
+		"1234567890";
 	cout<<"Enter length of the password : ";	
 	cin>>n;			  
 	for(int i=0;i<n;i++)
